@@ -8,7 +8,10 @@ subtitle: "My Data Science Portfolio"
 Welcome to my portfolio! I'm currently a student at BYUI majoring in Computer Science with a 4.0 GPA, and I recently completed my general education at Snow College. My experiences span automobile sales, car maintenance, real estate, and campus services, and I've taken on leadership roles in billboard installation and volunteer services.
 
 ## Technical Skills
-- Python programming
+- Python (including Pandas)
+- JavaScript
+- C#
+- Machine Learning
 - Microsoft Office
 - Basic computer maintenance
 
