@@ -10,10 +10,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Jayden Chen 2025©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://github.com/Jayden-py22/my_portfolio
 
   navbar:
     background: primary
