@@ -144,9 +144,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Welcome to my portfolio! I’m currently a student at BYUI majoring in Computer Science with a 4.0 GPA, and I recently completed my general education at Snow College. My experiences span automobile sales, car maintenance, real estate, and campus services, and I’ve taken on leadership roles in billboard installation and volunteer services.\n\n\n\nPython programming\nMicrosoft Office\nBasic computer maintenance\n\n\n\n\n\nEnglish\nMandarin\nCantonese\n\n\n\n\nI’m adaptable on-site, skilled in team coordination, and known for integrating ideas and staying composed under pressure.\n\n\n\nYou can find a more detailed resume in this portfolio under the “resume” section.\nMarkDown Basics"
   },
   {
     "objectID": "index.html#title-2-header",
@@ -275,9 +275,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Jayden Chen’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Rexburg, Idaho 83440\n(435) 314-5523\nhaij0428@gmail.com\n\n\nSpring 2024\nSnow College\n- General Education\n- GPA: 3.50\nPresent\nBrigham Young University - Idaho (BYUI)\n- Computer Science\n- GPA: 4.0\n\n\n\nMay 2020 - Dec 2020\nZhuhai Chengtai Automobile Sales Service Co., Ltd\n- Demonstrated in-depth knowledge of vehicle features and benefits to customers.\n- Developed and presented customized financial solutions.\n- Fostered customer loyalty through excellent service.\n- Delivered personalized customer experiences.\nDec 2020 - Jun 2021\nChehaotian Maintenance Center\n- Diagnosed and troubleshot vehicle issues.\n- Repaired and maintained vehicles to high standards.\n- Gained proficiency with automotive tools and equipment.\nAug 2021 - Nov 2021\nKe Holdings Inc.\n- Presented value propositions of real estate offerings.\n- Built customer relationships and loyalty.\n- Analyzed client needs and suggested financial solutions.\n- Led daily operations and team coordination.\nMay 2022 – Aug 2024\nSnow College Campus Services\n- Building cleaning and maintenance services.\n\n\n\nUrban Service Volunteers\n- Promoted traffic civilization in coordination with law enforcement.\n- Prevented violations and maintained order.\nBYUI\n- Volunteer at Chinese conversation lab.\n\n\n\nConstruction Site Assistant\n- Guided billboard installation.\n- Led circuit installation projects.\n\n\n\n\nComputer: Python, Microsoft Office, computer maintenance\n\nLanguages: English, Mandarin, Cantonese\n\nProblem-Solving: Strong analytical skills, adaptability, composure under pressure\n\nTeamwork & Leadership: Idea integration, communication, team coordination"
   },
   {
     "objectID": "resume.html#currently",
@@ -289,9 +289,9 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Jayden Chen’s CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "Spring 2024\nSnow College\n- General Education\n- GPA: 3.50\nPresent\nBrigham Young University - Idaho (BYUI)\n- Computer Science\n- GPA: 4.0"
   },
   {
     "objectID": "resume.html#awards",
@@ -350,9 +350,9 @@
   {
     "objectID": "ml.html",
     "href": "ml.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Welcome to my portfolio! I’m currently a student at BYUI majoring in Computer Science with a 4.0 GPA, and I recently completed my general education at Snow College. My experiences span automobile sales, car maintenance, real estate, and campus services, and I’ve taken on leadership roles in billboard installation and volunteer services.\n\n\n\nPython programming\nMicrosoft Office\nBasic computer maintenance\n\n\n\n\n\nEnglish\nMandarin\nCantonese\n\n\n\n\nI’m adaptable on-site, skilled in team coordination, and known for integrating ideas and staying composed under pressure.\n\n\n\nYou can find a more detailed resume in this portfolio under the “resume” section.\nMarkDown Basics",
     "crumbs": [
       "Machine Learning"
     ]
@@ -468,9 +468,9 @@
   {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Welcome to my portfolio! I’m currently a student at BYUI majoring in Computer Science with a 4.0 GPA, and I recently completed my general education at Snow College. My experiences span automobile sales, car maintenance, real estate, and campus services, and I’ve taken on leadership roles in billboard installation and volunteer services.\n\n\n\nPython programming\nMicrosoft Office\nBasic computer maintenance\n\n\n\n\n\nEnglish\nMandarin\nCantonese\n\n\n\n\nI’m adaptable on-site, skilled in team coordination, and known for integrating ideas and staying composed under pressure.\n\n\n\nYou can find a more detailed resume in this portfolio under the “resume” section.\nMarkDown Basics",
     "crumbs": [
       "Full Stack"
     ]
@@ -484,5 +484,141 @@
     "crumbs": [
       "Full Stack"
     ]
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Jayden Chen’s CV",
+    "section": "",
+    "text": "May 2020 - Dec 2020\nZhuhai Chengtai Automobile Sales Service Co., Ltd\n- Demonstrated in-depth knowledge of vehicle features and benefits to customers.\n- Developed and presented customized financial solutions.\n- Fostered customer loyalty through excellent service.\n- Delivered personalized customer experiences.\nDec 2020 - Jun 2021\nChehaotian Maintenance Center\n- Diagnosed and troubleshot vehicle issues.\n- Repaired and maintained vehicles to high standards.\n- Gained proficiency with automotive tools and equipment.\nAug 2021 - Nov 2021\nKe Holdings Inc.\n- Presented value propositions of real estate offerings.\n- Built customer relationships and loyalty.\n- Analyzed client needs and suggested financial solutions.\n- Led daily operations and team coordination.\nMay 2022 – Aug 2024\nSnow College Campus Services\n- Building cleaning and maintenance services."
+  },
+  {
+    "objectID": "resume.html#service-volunteer",
+    "href": "resume.html#service-volunteer",
+    "title": "Jayden Chen’s CV",
+    "section": "",
+    "text": "Urban Service Volunteers\n- Promoted traffic civilization in coordination with law enforcement.\n- Prevented violations and maintained order.\nBYUI\n- Volunteer at Chinese conversation lab."
+  },
+  {
+    "objectID": "resume.html#leadership-and-activities",
+    "href": "resume.html#leadership-and-activities",
+    "title": "Jayden Chen’s CV",
+    "section": "",
+    "text": "Construction Site Assistant\n- Guided billboard installation.\n- Led circuit installation projects."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Jayden Chen’s CV",
+    "section": "",
+    "text": "Computer: Python, Microsoft Office, computer maintenance\n\nLanguages: English, Mandarin, Cantonese\n\nProblem-Solving: Strong analytical skills, adaptability, composure under pressure\n\nTeamwork & Leadership: Idea integration, communication, team coordination"
+  },
+  {
+    "objectID": "full_stack.html#technical-skills",
+    "href": "full_stack.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Python programming\nMicrosoft Office\nBasic computer maintenance",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#languages",
+    "href": "full_stack.html#languages",
+    "title": "About Me",
+    "section": "",
+    "text": "English\nMandarin\nCantonese",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#problem-solving-teamwork",
+    "href": "full_stack.html#problem-solving-teamwork",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m adaptable on-site, skilled in team coordination, and known for integrating ideas and staying composed under pressure.",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#resume-link",
+    "href": "full_stack.html#resume-link",
+    "title": "About Me",
+    "section": "",
+    "text": "You can find a more detailed resume in this portfolio under the “resume” section.\nMarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "ml.html#technical-skills",
+    "href": "ml.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Python programming\nMicrosoft Office\nBasic computer maintenance",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#languages",
+    "href": "ml.html#languages",
+    "title": "About Me",
+    "section": "",
+    "text": "English\nMandarin\nCantonese",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#problem-solving-teamwork",
+    "href": "ml.html#problem-solving-teamwork",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m adaptable on-site, skilled in team coordination, and known for integrating ideas and staying composed under pressure.",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#resume-link",
+    "href": "ml.html#resume-link",
+    "title": "About Me",
+    "section": "",
+    "text": "You can find a more detailed resume in this portfolio under the “resume” section.\nMarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Python programming\nMicrosoft Office\nBasic computer maintenance"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "About Me",
+    "section": "",
+    "text": "English\nMandarin\nCantonese"
+  },
+  {
+    "objectID": "index.html#problem-solving-teamwork",
+    "href": "index.html#problem-solving-teamwork",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m adaptable on-site, skilled in team coordination, and known for integrating ideas and staying composed under pressure."
+  },
+  {
+    "objectID": "index.html#resume-link",
+    "href": "index.html#resume-link",
+    "title": "About Me",
+    "section": "",
+    "text": "You can find a more detailed resume in this portfolio under the “resume” section.\nMarkDown Basics"
   }
 ]
